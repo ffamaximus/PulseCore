@@ -1,3 +1,4 @@
+﻿![PulseBus Banner](https://raw.githubusercontent.com/ffamaximus/PulseCore/refs/heads/main/banner.png)
 # PulseCore
 
 [![NuGet Version](https://img.shields.io/nuget/v/PulseCore.svg?style=flat-square)](https://www.nuget.org/packages/PulseCore/)
@@ -198,7 +199,7 @@ Contributions, issues, and pull requests are welcome! Please follow these guidel
 
 This project is developed and maintained by **Andrés Mariño**. If you find this library useful and would like to support its continued development, you can buy me a coffee!
 
-- **Bitcoin (BTC):** `bc1p9zqgxghkjhauruhsza9n382e6kp5tpj4xtzu2csv4mypsdtdc4tqvdyg86`
+**Bitcoin (BTC):** `bc1p9zqgxghkjhauruhsza9n382e6kp5tpj4xtzu2csv4mypsdtdc4tqvdyg86`
 [![Buy Me a Coffee at Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=flat-square&logo=ko-fi)](https://ko-fi.com/andresdev21)
 
 ## License
